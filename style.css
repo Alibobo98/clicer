@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://monitorring.ru/wp-content/uploads/2020/07/492fb3be3539785d87ddc5c2bcc05665-patron-inconsutil-de-dinero.jpg);
+  background-attachment: fixed;
+}
+h2 {
+  font-family: cursive;
+  color: blue;
+  text-align: center;
+}
+#clickbtn{
+	position: absolute;
+	top:150px;
+	left: 710px;
+}
+#score{
+	text-align: center;
+}
